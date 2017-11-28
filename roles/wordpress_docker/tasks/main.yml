@@ -18,4 +18,4 @@
 #         WORDPRESS_SECURE_AUTH_SALT={{ wordpress_secure_auth_salt }},
 #         WORDPRESS_NONCE_SALT={{ wordpress_nonce_salt }},
 #         WORDPRESS_LOGGED_IN_SALT={{ wordpress_loggedin_salt }}
-# # These variables are given by WordPress's API https://api.wordpress.org/secret-key/1.1/salt/
+# # These variables are given by WordPress's API : curl https://api.wordpress.org/secret-key/1.1/salt/
